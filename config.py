@@ -1,3 +1,3 @@
 token=""
 channel=int("")
-role=int("")
+roleid=int("")
